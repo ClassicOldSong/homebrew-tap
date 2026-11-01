@@ -1,6 +1,6 @@
 cask "macmtp" do
-  version "0.1.0"
-  sha256 "f6b66fb97b27c98394f167aa58a7ccbb686ea5ebd0e551f9f33d0373b566b03e"
+  version "0.2.0"
+  sha256 "f08ae98726b344aaf55fd02b24bc387dea11f94ff644c0fd0dd7b576e82e52e8"
 
   url "https://github.com/ClassicOldSong/MacMTP/releases/download/v#{version}/MacMTP-#{version}-macOS-universal.zip"
   name "MacMTP"
